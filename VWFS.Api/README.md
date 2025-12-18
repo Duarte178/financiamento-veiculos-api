@@ -2,7 +2,15 @@
 
 API básica em **C# / ASP.NET Core (Minimal API)** com **Swagger** e persistência **em memória**, feita para discussão de abordagem.
 
-## Como rodar
+## Execução (opcional)
+
+> A execução do projeto é opcional e não é requisito do desafio.
+> As instruções abaixo servem apenas como referência.
+
+```bash
+dotnet restore
+dotnet run --project ./VWFS.Api
+
 
 ```bash
 dotnet restore
